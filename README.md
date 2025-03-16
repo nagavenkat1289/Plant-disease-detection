@@ -83,6 +83,4 @@ The system uses a convolutional neural network (CNN) to classify images into hea
 2. **Precision, Recall, F1 Score**: These metrics are calculated per class to understand the model's performance on individual diseases.
 3. **Confusion Matrix**: A confusion matrix is generated to visualize the performance of the classification model.
 
-## Results
 
-The results of the model will be presented here once the training and evaluation are completed.
