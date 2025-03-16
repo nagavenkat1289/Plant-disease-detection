@@ -16,7 +16,7 @@ This project aims to develop a system for detecting plant diseases using Python 
 
 1. Clone the repository
 
-       git clone https://github.com/vinishhub/Patho_Plant.git
+       git clone https://github.com/nagavenkat1289/Plant-disease-detection.git
        cd Patho_Plant
   
   
