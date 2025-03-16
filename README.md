@@ -86,7 +86,3 @@ The system uses a convolutional neural network (CNN) to classify images into hea
 ## Results
 
 The results of the model will be presented here once the training and evaluation are completed.
-
-## Contributing
-
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) for more information.
